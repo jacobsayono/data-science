@@ -1,23 +1,19 @@
-# CS M146 @ UCLA
-### Intro to Machine Learning
+# CS M148 @ UCLA
+### Intro to Data Science
 
 ##### Topics Covered:
-1. Probability and Statistics
-2. Decision Trees
-3. Nearest Neighbors
-4. Linear Classification (Perceptron)
-5. Logistic Regression
-6. Linear Regression
-7. Overfitting and Regularization
-8. Kernels
-9. Support Vector Machines (SVMs)
-10. Kernalized SVMs
-11. Evaluating ML Methods
-12. Ensemble Methods
-13. Dimensionality Reduction
-14. Mixture Models
-15. Hidden Markov Models (HMMs)
-16. Neural Networks
+1. Data Collection, Cleaning, Bias in the Data
+2. k-Nearest Neighbor (kNN), Linear Regression, Interpretations
+3. Multi & Poly Linear Regression
+4. Model Selection & Cross Validation
+5. Hypothesis Testing
+6. Regularization: Ridge & Lasso
+7. Logistic Regression, Interpretations
+8. Multi-Class Logistic Regression
+9. Data Summarization & Submodularity
+11. Submodular Maximization
+12. Model Interpretation
+13. Learning from Large Datasets
 
 ##### Tools Used:
 Python, Jupyter, Numpy, Pandas, Matplotlib, Plotly, Sklearn
